@@ -1,16 +1,14 @@
 ## Hi there 👋
+I'm a hobbyist diving into the fascinating world of Natural Language Processing (NLP). My current private project is building an LLM system I've named **N.O.A.H.** (_Never Outdone Artificial HyperIntelligence_).\
+(Yeah, the "Never Outdone" part is just a joke. I named the project like this because I'm a big Tony Stark fan! 😂)
 
-<!--
-**YukiTomita-CC/YukiTomita-CC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm just an amateur enjoying the exciting developments in NLP these days. **N.O.A.H.** is trained on a lot of personal data, so, I can't share it publicly. But, I'm hoping to share any insights and learnings I gain along the way.
 
-Here are some ideas to get you started:
+Since I'm not a professional programmer or NLP expert, I'd really appreciate any feedback if I'm not following best practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Favorite Languages
+- **C#**
+- **Python**
+- **C++**
+
+Thanks for stopping by!
